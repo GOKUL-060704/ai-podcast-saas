@@ -40,4 +40,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 pnpm i
 pnpm dev
-clerk -> middlewar  --->proxy.ts
+clerk -> middleware  --->proxy.ts
+code rabbit  --> git maintaninace
+pnpm add @clerk/nextjs
+pnpm i covex   ---> DB
+
+pnpm convex dev
+pnpm add convex
+
+
+
+
