@@ -49,5 +49,9 @@ pnpm convex dev
 pnpm add convex
 
 
+to run conxev   pnpm dlx inngest-cli@latest dev
+
+
+
 
 
